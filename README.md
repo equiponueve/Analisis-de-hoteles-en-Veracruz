@@ -7,20 +7,6 @@ Landa Apolinar Daira Lisset
 Reducindo Santos Axel Gabriel
 Salamanca Salas Rodrigo
 
-INTRODUCCIÓN
-
-Objetivo:
-Aplicar técnicas de análisis de datos para identificar patrones y tendencias en las características de los hoteles en Veracruz, con el propósito de generar insights que permitan evaluar su desempeño, clasificar su oferta de servicios y detectar oportunidades de mejora en el sector turístico. 
-
-Importancia
-El análisis de las características de los hoteles en Veracruz, es esencial para evaluar su desempeño y posicionamiento en el mercado turístico local, asimismo, este estudio permite identificar patrones en la oferta de servicios, niveles de competitividad y oportunidades de mejora, utilizando un enfoque basado en datos, los hallazgos derivados de este análisis contribuyen a la toma de decisiones estratégicas, optimización de recursos y mejora continua, fortaleciendo la competitividad del sector y su impacto económico en la región.
-
-Planteamiento del problema:
-Características que influyen en la satisfacción: Limpieza, comodidad, atención al cliente, ubicación y servicios adicionales son aspectos prioritarios que impactan significativamente en la fidelización y percepción de los huéspedes.
-Tendencias en servicios: Adaptarse a tendencias modernas es crucial para alinearse con las expectativas de los viajeros. Esto incluye ofrecer servicios diferenciados y ajustarse a estándares globales.
-Impacto de las calificaciones: Las opiniones en plataformas como Booking.com son decisivas para el posicionamiento de los hoteles, influyendo en las reservas y la reputación en línea.
-Relación tarifas-calidad: El balance entre precio y calidad percibida es clave para mejorar la competitividad y ajustar estrategias de mercado.
-Áreas de mejora: Se deben reforzar la innovación, diferenciación, limpieza, servicio y relación calidad-precio para aumentar la competitividad y atraer más turistas.
 
 CONJUNTO DE DATOS
 El dataset utilizado en este análisis se centra en las características, calificaciones y servicios ofrecidos por 50 hoteles ubicados en diferentes ciudades del estado de Veracruz, además, fue diseñado para identificar patrones y tendencias en las opiniones de los clientes, evaluando aspectos clave que afectan la experiencia de los huéspedes. 
