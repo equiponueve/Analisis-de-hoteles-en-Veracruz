@@ -1,31 +1,18 @@
 # Analisis-de-hoteles-en-Veracruz
 Proyecto Final: Introducción a la Ciencia de Datos
 Integrantes del equipo:
+
 García Olivares Jafet
+
 Izquierdo López Cristian Axel
+
 Landa Apolinar Daira Lisset
+
 Reducindo Santos Axel Gabriel
+
 Salamanca Salas Rodrigo
 
 
 
 
 
-Resultados:
-Factores clave identificados:
-Limpieza: Se determinó como la variable con mayor impacto en la satisfacción general de los clientes, con un coeficiente de 0.42 en el modelo de regresión lineal. Esto indica que una mejora en limpieza incrementa significativamente la calificación global.
-Servicio: Otro factor crucial, con un coeficiente de 0.38, lo que resalta la importancia de la calidad de atención al cliente.
-Relación costo-beneficio: Mostró un coeficiente de 0.31, evidenciando que los huéspedes valoran un balance justo entre precio y calidad.
-Patrones relevantes:
-Las calificaciones más altas se concentraron en hoteles ubicados en zonas turísticas (Veracruz y Boca del Río).
-Variables como "alimentos y bebidas" y "comodidad" tuvieron menor influencia, pero siguen siendo relevantes para la experiencia general del cliente.
-Rendimiento de los modelos:
-El modelo de regresión lineal presentó un buen ajuste, con valores de R² cercanos a 0.8, lo que indica que explica una proporción considerable de la variabilidad en la calificación general.
-Los modelos de clasificación y árboles de decisión lograron identificar correctamente categorías de calificación en la mayoría de los casos, con métricas de precisión y F1-score superiores al 80%.
-Áreas de mejora detectadas:
-Incrementar los estándares de limpieza y servicio, que son las dimensiones más valoradas por los clientes.
-Mejorar la oferta en alimentos y bebidas, ya que esta categoría tiene un impacto más moderado pero relevante para algunos segmentos de clientes.
-Ofrecer promociones que refuercen la percepción de una buena relación costo-beneficio.
-Comparaciones con estándares globales:
-Los hoteles de Veracruz destacan en limpieza y comodidad, pero muestran oportunidades de mejora en aspectos gastronómicos y servicios diferenciados para alinearse con tendencias globales.
-Estos resultados ofrecen un panorama claro para orientar estrategias de mejora en el sector hotelero de Veracruz, incrementando tanto la competitividad como la satisfacción de los huéspedes.
