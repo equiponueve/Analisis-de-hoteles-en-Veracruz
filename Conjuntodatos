@@ -1,1 +1,18 @@
-
+CONJUNTO DE DATOS
+El dataset utilizado en este análisis se centra en las características, calificaciones y servicios ofrecidos por 50 hoteles ubicados en diferentes ciudades del estado de Veracruz, además, fue diseñado para identificar patrones y tendencias en las opiniones de los clientes, evaluando aspectos clave que afectan la experiencia de los huéspedes. 
+Fuente de los datos:
+Los datos utilizados en este proyecto fueron obtenidos de Booking.com, una plataforma pública que proporciona información detallada sobre hoteles, calificaciones de clientes y servicios ofrecidos. Esta información es accesible a cualquier usuario interesado en comparar opciones hoteleras, lo que la hace adecuada para análisis académicos enfocados en identificar patrones y tendencias en el sector turístico.
+Características Principales:
+1.	Total, de registros: 50
+2.	Variables principales:
+·	Ubicación: Indica la localidad donde se encuentra el hotel. Es una variable categórica representada por nombres de ciudades del estado de Veracruz, como Xalapa, Veracruz, Coatepec, Orizaba o Boca del Río. Esta variable es útil para analizar cómo varían las calificaciones entre diferentes regiones.
+·	Calificación General: Refleja la puntuación promedio que los huéspedes han otorgado al hotel en una escala de 3 a 5. Es una variable numérica que mide la percepción global del servicio y la experiencia en el hotel.
+·	Número de Reseñas: Representa la cantidad de opiniones recibidas por cada hotel. Es una variable numérica entera que proporciona información sobre la popularidad o nivel de atención que el hotel ha recibido por parte de los visitantes.
+·	Limpieza: Mide la calidad de la limpieza del hotel según las opiniones de los huéspedes. Es una variable numérica en una escala de 3 a 5, donde un puntaje más alto indica un nivel de limpieza superior.
+·	Servicio: Evalúa la atención brindada por el personal del hotel, con calificaciones en una escala de 3 a 5. Esta variable es un indicador clave de la satisfacción del cliente con el trato recibido.
+·	Relación Costo-Beneficio: Indica si el precio pagado por los huéspedes corresponde a la calidad de los servicios y comodidades ofrecidos. Es una variable numérica en la misma escala de 3 a 5.
+·	Comodidad: Refleja la percepción de los huéspedes sobre el confort y la funcionalidad de las habitaciones y áreas comunes del hotel. También se mide en una escala de 3 a 5.
+·	Alimentos y Bebidas: Evalúa la calidad y variedad de los servicios de alimentos y bebidas proporcionados por el hotel. Es una variable numérica en una escala de 3 a 5, que mide aspectos como sabor, presentación y atención en este rubro.
+Procedencia de los datos
+Los datos provienen de Booking.com, una plataforma pública utilizada para comparar y reservar alojamientos. La información fue recopilada manualmente de hoteles en Veracruz, considerando ubicación, calificaciones y servicios.
+Enlace: https://www.booking.com/
