@@ -1,0 +1,26 @@
+import sys
+import os
+
+# Añadir el directorio actual al PATH
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+
+from cleaning import clean_data
+from analysis import exploratory_analysis
+
+
+import pandas as pd
+
+DATA_PATH = "../datasets/hoteles.csv"
+
+def main():
+    print("Cargando datos...")
+    data = pd.read_csv(DATA_PATH)
+    
+    print("Limpiando datos...")
+    cleaned_data = clean_data(data)
+    
+    print("Realizando análisis exploratorio...")
+    exploratory_analysis(cleaned_data)
+
+if __name__ == "__main__":
+    main()
