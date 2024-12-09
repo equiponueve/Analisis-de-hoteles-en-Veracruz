@@ -1,0 +1,29 @@
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+def exploratory_analysis(data):
+   
+    # Estadísticas descriptivas
+    print("Estadísticas descriptivas:")
+    print(data.describe())
+
+    # Crear histogramas para variables numéricas
+    for col in ['Calificación General', 'Limpieza', 'Servicio', 
+                'Relación costo-beneficio', 'Comodidad', 'Alimentos y Bebidas']:
+        if col in data.columns:
+            plt.figure(figsize=(8, 6))
+            sns.histplot(data[col], bins=10, kde=True, color="skyblue")
+            plt.title(f"Distribución de {col}")
+            plt.xlabel(col)
+            plt.ylabel("Frecuencia")
+            plt.savefig(f"../visualizations/histograma_{col.lower().replace(' ', '_')}.png")
+            plt.close()
+
+    # Crear matriz de correlaciones
+    plt.figure(figsize=(10, 8))
+    sns.heatmap(data.corr(), annot=True, cmap="coolwarm", fmt=".2f")
+    plt.title("Matriz de Correlaciones")
+    plt.savefig("../visualizations/matriz_correlaciones.png")
+    plt.close()
+ 
