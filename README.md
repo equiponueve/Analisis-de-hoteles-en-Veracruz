@@ -38,7 +38,7 @@ A continuación se listan los archivos principales utilizados en este proyecto:
 1. **[Gráfico de Calificaciones Generales](images/califgeneral.png)**  
    Visualización clave que muestra las calificaciones generales de los hoteles.
 
-2. **[Código 1: Análisis de Datos](notebooks/codigo1.ipynb)**  
+2. **[Código 1: Análisis de Datos](codigo1)**  
    Primer notebook con el análisis exploratorio de los datos.
 
 3. **[Código 2: Limpieza de Datos](notebooks/codigo2.ipynb)**  
