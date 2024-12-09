@@ -95,6 +95,7 @@ Relación costo-beneficio: Influye significativamente en la percepción del clie
             margin-top: 20px;
         }
     </style>
+</head>
 <body>
     <h2>Fases del Proyecto</h2>
     <ol>
@@ -293,6 +294,8 @@ Este proyecto demuestra el valor de aplicar la ciencia de datos para evaluar y m
 </p>
     </section>
 </body>
+</html>
+
 
 
 ## Archivos del Proyecto
