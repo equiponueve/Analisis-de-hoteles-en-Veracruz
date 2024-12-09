@@ -31,6 +31,27 @@ Factores clave: Limpieza (coef. 0.42) y servicio (coef. 0.38) son los principale
 Tendencias: Los hoteles mejor evaluados ofrecen servicios diferenciados y están en zonas turísticas.
 Relación costo-beneficio: Influye significativamente en la percepción del cliente, destacando la importancia de tarifas competitivas.
 Áreas de mejora: Potenciar limpieza, servicio, y alimentos y bebidas para alinearse con estándares internacionales y atraer más turistas.
+## Archivos del Proyecto
+
+A continuación se listan los archivos principales utilizados en este proyecto:
+
+1. **[Gráfico de Calificaciones Generales](images/califgeneral.png)**  
+   Visualización clave que muestra las calificaciones generales de los hoteles.
+
+2. **[Código 1: Análisis de Datos](notebooks/codigo1.ipynb)**  
+   Primer notebook con el análisis exploratorio de los datos.
+
+3. **[Código 2: Limpieza de Datos](notebooks/codigo2.ipynb)**  
+   Segundo notebook que contiene el proceso de limpieza de los datos.
+
+4. **[Código 3: Modelado de Datos](notebooks/codigo3.ipynb)**  
+   Tercer notebook para el modelado y análisis predictivo de los datos.
+
+5. **[Dataset de Hoteles](data/hoteles.csv)**  
+   Archivo CSV con los datos de los hoteles en Veracruz, utilizado para el análisis.
+
+6. **[Gráfico de Limpieza de Datos](images/limpieza.png)**  
+   Visualización que muestra el proceso de limpieza y los datos transformados.
 
 <html lang="es">
 <head>
