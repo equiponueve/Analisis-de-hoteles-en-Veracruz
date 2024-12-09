@@ -1,0 +1,25 @@
+import numpy as np
+
+def clean_data(data):
+
+    # Eliminar columnas innecesarias
+    data = data.drop(columns=['Unnamed: 0'], errors='ignore')
+    
+    # Manejar valores nulos
+    print("Valores nulos detectados:")
+    print(data.isnull().sum())
+    data = data.dropna()  # Puedes usar data.fillna(valor) si es necesario
+
+    # Verificar y ajustar rangos de calificaciones
+    for col in ['Calificación General', 'Limpieza', 'Servicio', 
+                'Relación costo-beneficio', 'Comodidad', 'Alimentos y Bebidas']:
+        if col in data.columns:
+            if not data[col].between(3.0, 5.0).all():
+                print(f"Ajustando valores fuera de rango en {col}...")
+                data[col] = np.clip(data[col], 3.0, 5.0)
+
+    # Eliminar duplicados
+    data = data.drop_duplicates()
+    print("Datos después de la limpieza:")
+    print(data.head())
+    return data
