@@ -35,17 +35,17 @@ Relación costo-beneficio: Influye significativamente en la percepción del clie
 
 A continuación se listan los archivos principales utilizados en este proyecto:
 
-**[Gráfico de Limpieza de Datos](limpieza.png)**  
+1. **[Gráfico de Limpieza de Datos](limpieza.png)**  
    Visualización que muestra el proceso de limpieza y los datos transformados.
-**[Gráfico de Calificaciones Generales](califgeneral.png)**  
+2. **[Gráfico de Calificaciones Generales](califgeneral.png)**  
    Visualización clave que muestra las calificaciones generales de los hoteles.
-**[Código 1: Análisis de Datos](codigo1.jpynb)**  
+3. **[Código 1: Análisis de Datos](codigo1.jpynb)**  
    Primer notebook con el análisis exploratorio de los datos.
-**[Código 2: Limpieza de Datos](codigo2.ipynb)**  
+4. **[Código 2: Limpieza de Datos](codigo2.ipynb)**  
    Segundo notebook que contiene el proceso de limpieza de los datos.
-**[Código 3: Modelado de Datos](codigo3.ipynb)**  
+5. **[Código 3: Modelado de Datos](codigo3.ipynb)**  
    Tercer notebook para el modelado y análisis predictivo de los datos.
-**[Dataset de Hoteles](hoteles.csv)**  
+6. **[Dataset de Hoteles](hoteles.csv)**  
    Archivo CSV con los datos de los hoteles en Veracruz, utilizado para el análisis.
 
 
