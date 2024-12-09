@@ -294,6 +294,7 @@ Este proyecto demuestra el valor de aplicar la ciencia de datos para evaluar y m
     </section>
 </body>
 </html>
+
 ## Archivos del Proyecto
 
 A continuación se listan los archivos principales utilizados en este proyecto:
