@@ -293,7 +293,7 @@ Este proyecto demuestra el valor de aplicar la ciencia de datos para evaluar y m
 </p>
     </section>
 </body>
-</html>
+
 
 ## Archivos del Proyecto
 
