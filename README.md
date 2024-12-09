@@ -31,22 +31,6 @@ Factores clave: Limpieza (coef. 0.42) y servicio (coef. 0.38) son los principale
 Tendencias: Los hoteles mejor evaluados ofrecen servicios diferenciados y están en zonas turísticas.
 Relación costo-beneficio: Influye significativamente en la percepción del cliente, destacando la importancia de tarifas competitivas.
 Áreas de mejora: Potenciar limpieza, servicio, y alimentos y bebidas para alinearse con estándares internacionales y atraer más turistas.
-## Archivos del Proyecto
-
-A continuación se listan los archivos principales utilizados en este proyecto:
-
-1. **[Gráfico de Limpieza de Datos](limpieza.png)**  
-   Visualización que muestra el proceso de limpieza y los datos transformados.
-2. **[Gráfico de Calificaciones Generales](califgeneral.png)**  
-   Visualización clave que muestra las calificaciones generales de los hoteles.
-3. **[Código 1: Análisis de Datos](codigo1.jpynb)**  
-   Primer notebook con el análisis exploratorio de los datos.
-4. **[Código 2: Limpieza de Datos](codigo2.ipynb)**  
-   Segundo notebook que contiene el proceso de limpieza de los datos.
-5. **[Código 3: Modelado de Datos](codigo3.ipynb)**  
-   Tercer notebook para el modelado y análisis predictivo de los datos.
-6. **[Dataset de Hoteles](hoteles.csv)**  
-   Archivo CSV con los datos de los hoteles en Veracruz, utilizado para el análisis.
 
 
 <html lang="es">
@@ -275,6 +259,22 @@ Este proyecto demuestra el valor de aplicar la ciencia de datos para evaluar y m
     </section>
 </body>
 </html>
+## Archivos del Proyecto
+
+A continuación se listan los archivos principales utilizados en este proyecto:
+
+1. **[Gráfico de Limpieza de Datos](limpieza.png)**  
+   Visualización que muestra el proceso de limpieza y los datos transformados.
+2. **[Gráfico de Calificaciones Generales](califgeneral.png)**  
+   Visualización clave que muestra las calificaciones generales de los hoteles.
+3. **[Código 1: Análisis de Datos](codigo1.jpynb)**  
+   Primer notebook con el análisis exploratorio de los datos.
+4. **[Código 2: Limpieza de Datos](codigo2.ipynb)**  
+   Segundo notebook que contiene el proceso de limpieza de los datos.
+5. **[Código 3: Modelado de Datos](codigo3.ipynb)**  
+   Tercer notebook para el modelado y análisis predictivo de los datos.
+6. **[Dataset de Hoteles](hoteles.csv)**  
+   Archivo CSV con los datos de los hoteles en Veracruz, utilizado para el análisis.
 
 
 
