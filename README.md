@@ -1,4 +1,3 @@
-# Analisis-de-hoteles-en-Veracruz
 Proyecto Final: Introducción a la Ciencia de Datos
 
 Integrantes del equipo:
@@ -37,29 +36,65 @@ Relación costo-beneficio: Influye significativamente en la percepción del clie
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fases del Proyecto</title>
-  <style>
-    body {
-        font-family: Arial, sans-serif;
-    }
-    ol {
-        list-style: decimal;
-        margin: 20px;
-        padding: 0;
-    }
-    a {
-        text-decoration: none;
-        color: blue;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-    section {
-        margin-top: 50px;
-    }
-</style>
-
-</head>
+    <title>Análisis de Hoteles en Veracruz</title>
+    <style>
+        body {
+            font-family: "Arial", sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #212529;
+        }
+        header {
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 5px 0 0;
+        }
+        main {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h2, h3 {
+            color: #007bff;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e9ecef;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #343a40;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
 <body>
     <h2>Fases del Proyecto</h2>
     <ol>
